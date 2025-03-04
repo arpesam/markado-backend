@@ -42,7 +42,7 @@ build/
 debug
 
 # Custom binaries
-markado-backend
+markado_backend
 
 
 .DS_Store
